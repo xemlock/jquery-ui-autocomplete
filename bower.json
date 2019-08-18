@@ -1,0 +1,24 @@
+{
+  "name": "jquery-ui.autocomplete",
+  "version": "1.9.2",
+  "homepage": "https://github.com/xemlock/jquery-ui-autocomplete",
+  "authors": [
+    "xemlock <xemlock@gmail.com>"
+  ],
+  "description": "Minimal standalone build of jQuery UI Autocomplete",
+  "main": "./jquery-ui.autocomplete.js",
+  "keywords": [
+    "jQuery",
+    "UI",
+    "Autocomplete"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6.0 <3.0.0"
+  }
+}
